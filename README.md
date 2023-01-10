@@ -26,16 +26,16 @@
 
 Hello, I am Reaper Ian, I have started properly developing a few years ago. I began my journey through creating Discord Bots.
 
-- 💝  Creator of both ZeroTwo Bot and the Reaper Ian Package
+- 💝  Creator of both Reaper Ian Bot and the Reaper Ian Package
 - 💪  Currently creating Discord Bots and small projects.
 - ✊ Not perfect, but i'll be one day.
-- 🏆  2022 Goals: Reaching 2K subscribers on [Youtube.](https://www.youtube.com/channel/UCyZbnc8T5dApE18KHQ99OQA)
+- 🏆  2023 Goals: Reaching 2K subscribers on [Youtube.](https://www.youtube.com/channel/UCyZbnc8T5dApE18KHQ99OQA)
 - 🎯  Wasting my time to save other people's time.
 - 🖥  Saving up for a RTX 3060 TI [Donation Goal: 0/500] [Donate!](https://www.paypal.com/paypalme/iangaming101hd)
 
 
 Business Email: reaperianbusiness@gmail.com<br>
-DM on Discord for custom bots!
+DM on Discord for a cookie (Reaper Ian#1600)!
 
 ## 🔧 Interests
 ![Python](https://img.icons8.com/color/30/python.png) 
