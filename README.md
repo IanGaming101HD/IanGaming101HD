@@ -26,7 +26,7 @@
 
 Hello, I am Reaper Ian, I have started properly developing a few years ago. I began my journey through creating Discord Bots.
 
-- 💝  Creator of both Reaper Ian Bot and the Reaper Ian Package
+- 💝  Creator of both Reaper Ian Bot and the Reaper Ian Package.
 - 💪  Currently creating Discord Bots and small projects.
 - ✊ Not perfect, but i'll be one day.
 - 🏆  2023 Goals: Reaching 2K subscribers on [Youtube.](https://www.youtube.com/channel/UCyZbnc8T5dApE18KHQ99OQA)
